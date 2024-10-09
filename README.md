@@ -5,7 +5,8 @@ LINUX:
 Instalar Python y pip (si no los tienes instalado)
 
 sudo apt install python3 python3-pip
-pip install cryptography
+
+pip install cryptography,
 (crear un entorno virtual si es necesario)
 
 WINDOWS:
