@@ -1,4 +1,4 @@
-este programa fue hecho para cifrar en AES con una clave de 256 bits,espero que les sirva y que no tengan ningun inconveniente con el
+este programa fue hecho para cifrar en AES con una clave de 256 bits,espero que les sirva y que no tengan ningun inconveniente con los
 pasos para instalar las librerias necesarias:
 
 LINUX:
